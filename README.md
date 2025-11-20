@@ -1,16 +1,34 @@
-## Hi there 👋
+### 👋 Hi! I'm a Full-Stack Developer.
 
-<!--
-**is-hiro/is-hiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer with 3+ years of commercial experience. I create fast, reliable, and scalable web applications, focusing on clean architecture, high-quality code, and ease of development.
 
-Here are some ideas to get you started:
+### 🚀 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** React, Next.js, TypeScript, Redux, TailwindCSS, SASS
+**Backend:** Node.js, NestJS, Express
+**Databases:** PostgreSQL, MongoDB, Redis
+**DevOps:** Docker, GitHub Actions, Nginx
+**Tools:** Git, Jest, ESLint, Prettier
+
+### 📌 About Me
+
+- 3+ years in web development
+- Worked with microservices architecture and high-load services
+- Write maintainable and testable code
+- I can lead features from concept to production
+- I love improving development processes and automation
+
+### 📂 Main Projects
+
+## 🔹 Project A — Full-stack application
+Project description (authorization, CRUD, real-time, admin panel, etc.)
+**Stack:** React, Node.js, PostgreSQL, Docker
+
+## 🔹 Project B — Backend service / API
+Functionality description (REST API, queues, integrations, etc.)
+
+**Stack:** NestJS, Redis, RabbitMQ
+
+## 🔹 Project C — Frontend SPA
+Description (SSR, SEO, UI kit, adaptability)
+**Stack:** Next.js, TypeScript
