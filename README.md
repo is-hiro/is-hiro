@@ -4,7 +4,7 @@
 - Write maintainable and testable code
 - I can lead features from concept to production
 - I love improving development processes and automation
-Hi!<br>I`m +4x • Full-Stack Web Developer<br><br>I can create everything.
+<br><br>I can create everything.
 
 
 ## 🌐 Socials:
