@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 3+ years in web development
+- 4+ years in web development
 - Worked with microservices architecture and high-load services
 - Write maintainable and testable code
 - I can lead features from concept to production
