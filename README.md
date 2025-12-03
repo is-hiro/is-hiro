@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/isKillhiro) [![Telegram](https://img.shields.io/badge/Telegram-black.svg?logo=telegram&logoColor=white)](https://t.me/xkillhiro)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xkillhiro) [![Telegram](https://img.shields.io/badge/Telegram-black.svg?logo=telegram&logoColor=white)](https://t.me/killhiro)
 
 
 # 💻 Tech Stack:
