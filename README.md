@@ -24,7 +24,7 @@ killhiro@github:~$ uptime
 
 killhiro@github:~$ cat /etc/motd
 
-  "Ship something that works with clear boundaries first — polish the architecture after"
+  "Ship something that works with clear boundaries first — polish the architecture after."
 
 killhiro@github:~$ ./whoami.sh
  role:        full-stack developer
